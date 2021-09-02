@@ -1,1 +1,2 @@
-Unsure at this stage, come back later
+Build the google homepage
+Make it look as similar as possible
